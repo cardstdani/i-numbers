@@ -43,7 +43,7 @@ class complexNumber(object):
 
 
 a = complexNumber(3, 4)
-b = complexNumber(0, 8)
+b = complexNumber(1, 8)
 print(a.sum(b).outputFormat())
 print(a.sub(b).outputFormat())
 print(a.mul(b).outputFormat())
